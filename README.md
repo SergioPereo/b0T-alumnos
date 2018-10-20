@@ -2,7 +2,6 @@
 
 Este proyecto va a estar muy cool !! 😍
 
-## CONTRIBUIDORES
 David Rebollo  - @dvidHD
 
 ---
@@ -13,4 +12,7 @@ Sergio André López Pereo    -   @SergioPereo
 
 ---
 Jeremias Castañedea Arreola @Janaijc
+
+---
+Lázaro Hernández Camacho - @Grimjow91
 
