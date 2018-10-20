@@ -4,4 +4,4 @@ Este proyecto va a estar muy cool !! 😍
 
 ## CONTRIBUIDORES
 
-Misael Calvillo Mancilla - @MisaelCalvillo
+Lázaro Hernández Camacho - @Grimjow91
