@@ -12,3 +12,5 @@ Misael Calvillo Mancilla - @MisaelCalvillo
 Sergio André López Pereo    -   @SergioPereo
 
 ---
+Jeremias Castañedea Arreola @Janaijc
+
