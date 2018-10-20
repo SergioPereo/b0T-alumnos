@@ -2,6 +2,9 @@
 
 Este proyecto va a estar muy cool !! 😍
 
+Rafa -  @Rafaduce
+
+---
 David Rebollo  - @dvidHD
 
 ---
