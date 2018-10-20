@@ -16,3 +16,6 @@ Jeremias Castañedea Arreola @Janaijc
 ---
 Lázaro Hernández Camacho - @Grimjow91
 
+---
+Rigo Romaniz - @rromaniz
+
